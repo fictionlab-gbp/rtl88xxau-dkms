@@ -1,4 +1,4 @@
-rtl88xxau-dkms (0-0) UNRELEASED; urgency=medium
+rtl88xxau-dkms (5.6.4.2~git20211108.307d694-1) focal; urgency=medium
 
   * Initial release.
 
