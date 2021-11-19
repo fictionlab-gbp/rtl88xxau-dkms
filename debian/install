@@ -1,4 +1,2 @@
-#!/bin/sh
-for file in core hal include Kconfig Makefile os_dep platform; do
-    echo ${file} usr/src/realtek-rtl88xxau-${DEB_VERSION_UPSTREAM}
-done
+#!/usr/bin/dh-exec
+core hal include Kconfig Makefile os_dep platform usr/src/rtl88xxau-${DEB_VERSION_UPSTREAM}/
