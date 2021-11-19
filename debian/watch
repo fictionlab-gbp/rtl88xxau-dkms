@@ -1,3 +1,3 @@
 version=4
 opts="mode=git, pretty=5.6.4.2~git%cd.%h, pgpmode=none" \
-  https://github.com/aircrack-ng/rtl8812au.git v5.6.4.2
+  https://github.com/aircrack-ng/rtl8812au.git heads/v5.6.4.2 debian
