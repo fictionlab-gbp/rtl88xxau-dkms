@@ -1,3 +1,9 @@
+rtl88xxau-dkms (5.6.4.2~git20250330.c3fb89a-1) jammy; urgency=medium
+
+  * New upstream version 5.6.4.2~git20250330.c3fb89a
+
+ -- Błażej Sowa <blazej@fictionlab.pl>  Tue, 08 Apr 2025 12:58:16 +0000
+
 rtl88xxau-dkms (5.6.4.2~git20211108.307d694-1) focal; urgency=medium
 
   * Initial release.
