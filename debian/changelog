@@ -1,4 +1,10 @@
-rtl88xxau-dkms (5.6.4.2~git20250330.c3fb89a-1) jammy; urgency=medium
+rtl88xxau-dkms (5.6.4.2~git20250330.c3fb89a-2) noble; urgency=medium
+
+  * Remove REMAKE_INITRD option from dkms config
+
+ -- Błażej Sowa <blazej@fictionlab.pl>  Tue, 08 Apr 2025 13:09:38 +0000
+
+rtl88xxau-dkms (5.6.4.2~git20250330.c3fb89a-1) noble; urgency=medium
 
   * New upstream version 5.6.4.2~git20250330.c3fb89a
 
